@@ -1,0 +1,4 @@
+sudo docker run -d nginx
+sudo docker run -d gitea/gitea
+docker ps
+touch Dockerfile docker-compose.yml
